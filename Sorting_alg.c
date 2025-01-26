@@ -1,3 +1,12 @@
+/* 
+Author: Chau Nguyen 
+Course: CSE 5311 
+Date: Jan 26 2025 
+Description: Sorting Algorithm Implementation 
+DO NOT COPY WITHOUT PERMISSION 
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
